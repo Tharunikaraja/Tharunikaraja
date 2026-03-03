@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Tharunika Raja  
 
-<!--
-**Tharunikaraja/Tharunikaraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second Year Computer Science Engineering Student  
+💼 Currently doing Internship at Hertzworkz  
+🚀 Hackathon Participant | Problem Solver | Product Builder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Currently Doing
+- 🛠 Developing products for hackathons  
+- 📚 Strengthening my Data Structures & Algorithms  
+- 🌱 Exploring Full Stack Development  
+
+---
+
+## 🏆 Achievements
+- 🥈 2nd Place – Code Toggle, Thiran 2026 (Sri Eshwar College of Engineering)  
+- 🥉 3rd Place – Cybersecurity Hackathon (Nilgiris Police Department)  
+- 🥇 Winner – Codeathon conducted by E-box  
+- 🏆 Winner – Intradepartment Speed Coding Challenge  
+- 💯 Solved 200+ Problems on LeetCode  
+
+---
+
+## 💡 Technical Skills
+- 💻 Programming Languages: C, Java  
+- 📘 Strong foundation in Data Structures & Algorithms  
+- 🗄 Basics of DBMS  
+
+---
+
+## 🔥 Interests
+- Competitive Programming  
+- DSA & Problem Solving  
+- MERN Stack (Currently Learning)  
+- Building impactful real-world applications  
+
+---
+
+## ⚡ About Me
+I enjoy solving challenging problems, participating in hackathons, and continuously improving my technical skills.  
+I believe in consistency, discipline, and learning by doing.
+
+---
+
+📫 Connect with me on LinkedIn: (Add your link here)
