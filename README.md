@@ -43,4 +43,5 @@ I believe in consistency, discipline, and learning by doing.
 
 ---
 
-📫 Connect with me on LinkedIn: (Add your link here)
+📫 Connect with me on LinkedIn: www.linkedin.com/in/tharunikaraja 
+
