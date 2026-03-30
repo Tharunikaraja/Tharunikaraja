@@ -13,11 +13,10 @@
 
 ---
 
-## 🏆 Achievements
-- 🥈 2nd Place – Code Toggle, Thiran 2026 (Sri Eshwar College of Engineering)  
+## 🏆 Achievements  
 - 🥉 3rd Place – Cybersecurity Hackathon (Nilgiris Police Department)  
-- 🥇 Winner – Codeathon conducted by E-box  
-- 🏆 Winner – Intradepartment Speed Coding Challenge  
+- 🥇 Winner – Codeathon conducted by E-box
+- 🥈 2nd Place – Code Toggle, Thiran 2026 (Sri Eshwar College of Engineering)
 - 💯 Solved 200+ Problems on LeetCode  
 
 ---
