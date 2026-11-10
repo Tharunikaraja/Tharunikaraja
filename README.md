@@ -1,46 +1,90 @@
-# Hi there 👋 I'm Tharunika Raja  
 
-🎓 Second Year Computer Science Engineering Student  
-💼 Currently doing Internship at Hertzworkz  
-🚀 Hackathon Participant | Problem Solver | Product Builder  
+# Hi there 👋 I'm Tharunika Raja
+
+🎓 Third Year Computer Science and Engineering Student  
+💼 Software Engineering Intern at ABB  
+🚀 Hackathon Enthusiast | Problem Solver | Product Builder  
 
 ---
 
 ## 💻 What I'm Currently Doing
-- 🛠 Developing products for hackathons  
-- 📚 Strengthening my Data Structures & Algorithms  
-- 🌱 Exploring Full Stack Development  
+
+- 💼 Working as an Intern at ABB in Automation & Testing
+- 🛠 Building real-world applications and hackathon projects
+- 📚 Strengthening Data Structures & Algorithms
+- 🌱 Exploring MERN Stack and Full Stack Development
+- 💡 Improving my problem-solving and software development skills
 
 ---
 
-## 🏆 Achievements  
-- 🥉 3rd Place – Cybersecurity Hackathon (Nilgiris Police Department)  
-- 🥇 Winner – Codeathon conducted by E-box
-- 🥈 2nd Place – Code Toggle, Thiran 2026 (Sri Eshwar College of Engineering)
-- 💯 Solved 200+ Problems on LeetCode  
+## 🏆 Achievements
+
+- 🥉 3rd Place – Cybersecurity Hackathon, Nilgiris Police Department
+- 🥇 Winner – E-Box Codeathon
+- 🥈 2nd Place – Code Toggle, Thiran 2026, Sri Eshwar College of Engineering
+- 🏅 Finalist – Code Crafters, Ramaiah Institute of Technology
+- 🥇 Winner – Speed Coding Competition
+- 💯 Solved 200+ Problems on LeetCode
+- 🏅 NPTEL Gold Medal – 96/100
+
+---
+
+## 💼 Experience
+
+**ABB – Intern**
+- Working in Automation and Testing.
+- Exploring Python-based automation and testing workflows.
+- Gaining experience in real-world enterprise projects.
+
+**Hertzworkz – Full Stack Development Intern**
+- Worked on full-stack web development.
+- Gained hands-on experience with React, Node.js, Express.js and DynamoDB.
 
 ---
 
 ## 💡 Technical Skills
-- 💻 Programming Languages: C, Java  
-- 📘 Strong foundation in Data Structures & Algorithms  
-- 🗄 Basics of DBMS  
+
+- **Programming Languages:** C, Java, Python, JavaScript
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
+- **Core Concepts:** Data Structures & Algorithms, OOP, DBMS
+- **Tools:** Git, GitHub, VS Code ,AWS, Azure devops
+
+---
+
+## 🚀 Projects
+
+- **CoverSmith** – A platform to build and customize personalized notebooks.
+- **APK Guard** – An Android application security analysis solution.
+- **WorkHive** – A productivity and collaboration platform.
+- **API Pulse** – An API monitoring and testing solution.
 
 ---
 
 ## 🔥 Interests
-- Competitive Programming  
-- DSA & Problem Solving  
-- MERN Stack (Currently Learning)  
-- Building impactful real-world applications  
+
+- Competitive Programming
+- Data Structures & Algorithms
+- MERN Stack Development
+- Software Engineering
+- Automation and Testing
+- Building impactful real-world applications
 
 ---
 
 ## ⚡ About Me
-I enjoy solving challenging problems, participating in hackathons, and continuously improving my technical skills.  
-I believe in consistency, discipline, and learning by doing.
+
+I'm a passionate Computer Science student who enjoys solving challenging problems, building products, and exploring new technologies.
+
+From competitive programming to hackathons and real-world development, I believe in learning by doing and continuously pushing my limits.
+
+I believe in consistency, discipline, and turning ideas into working solutions.
 
 ---
 
-📫 Connect with me on LinkedIn: www.linkedin.com/in/tharunikaraja 
+## 📫 Connect With Me
+
+- LinkedIn: [Tharunika Raja](https://www.linkedin.com/in/tharunikaraja)
+- LeetCode: [My Profile](https://leetcode.com/)
 
